@@ -6,4 +6,5 @@
 
 
 <p align= "center"> Imagem para fins de instrução, informação não extraída do trabalho </p>
+
 ![img2](image/bike-sharing-statistics.png)
